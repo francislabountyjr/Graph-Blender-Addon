@@ -11,7 +11,7 @@
  - Gradient fields
  - Visualize gradient descent/ascent
  - Controllable settings/dynamic graphs
- - Natural function style (ex: 5x+9y rather than 5*x+9*y)
+ - Natural function style (ex: 5x+9y rather than 5\*x+9\*y)
  - x y z variables are mapped to blender vertice position x y z
  - Add controllable parameters (ex: mx+b; m and b can be controlled with value sliders/input)
  - Nodes are defined programmatically
