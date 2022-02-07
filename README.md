@@ -27,3 +27,4 @@
  3. Install in blender by going to preferences > addons and then select the .zip file.
 
 *Pdf documentation coming soon
+**Questions/suggestions/bugs - labounty3d@gmail.com
